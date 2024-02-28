@@ -13,4 +13,4 @@
 ![Javascript](https://img.shields.io/badge/javascript-grey?logo=javascript)
 
 ### Contact me
-<a href="www.linkedin.com/in/julian-andrada-092b2024b"><img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-Julian%20Andrada-blue?style=flat-square&logo=linkedin"/></a>
+<a href="https://www.linkedin.com/in/julian-andrada-092b2024b"><img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-Julian%20Andrada-blue?style=flat-square&logo=linkedin"/></a>
