@@ -14,4 +14,5 @@
 
 ### Contact me
 <a href="https://www.linkedin.com/in/julian-andrada-092b2024b"><img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-Julian%20Andrada-blue?style=flat-square&logo=linkedin"/></a><br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Codesystem03)](https://github.com/anuraghazra/github-readme-stats)
+### my stats
+[![odesystem03 GitHub stats](https://github-readme-stats.vercel.app/api?username=Codesystem03)](https://github.com/anuraghazra/github-readme-stats)
